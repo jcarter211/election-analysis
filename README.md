@@ -2,11 +2,14 @@
 
 ## Project Overview 
 A Colorado Board of Elections employee has asked for me to perform the following functions in order to audit an election. 
-  1. Calculate the total numebr of votes cats
-  2. Get a complete list of candidates who received votes
+  1. Calculate the total numberr of votes casts
+  2. Print a complete list of candidates who received votes
   3. Calculate the total number of votes each candidate received 
   4. Calculate the percentage of votes each candidate won
   5. Determine the winner of the election based on the popular vote 
+  6. Calculate the voter turnout for each county
+  7. Calculate the percentage of votes deom each county out of the total vote count
+  8. Determine the country with the highest turnout
   
 ## Resources 
   * Data Source: election_results.csv
