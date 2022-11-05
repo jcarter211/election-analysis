@@ -41,13 +41,13 @@ A Colorado Board of Elections employee has asked for me to perform the following
  In order to add the county to our election audit, we needed to add code that supported the information about each county. To begin, we first had to identify a new list and dictionary: election_counties, county_votes. We then needed to add the counties to the election_counties list and add the updated list to the dictionary. Once the counties were added to the dictionary, we began to track and add votes to the county's vote count. 
  
  <p align="center">
-  <img width="500" height="600" src="https://github.com/jcarter211/election-analysis/blob/main/Supporting%20Materials/Tracking_Vote_Count.png">
+  <img width="500" height="500" src="https://github.com/jcarter211/election-analysis/blob/main/Supporting%20Materials/Tracking_Vote_Count.png">
 </p>
 
 After making these changes, we also needed to loop through the counties from the dictionary to retrieve the county vote count, calaculate the percentage per county, and print the county results. We also added in a few extra lines that added these results to a text file. All of this ended, with us writing an IF statement that printed the correct county as the "Largest County Turnout" variable. 
 
  <p align="center">
-  <img width="500" height="600" src="https://github.com/jcarter211/election-analysis/blob/main/Supporting%20Materials/Looping_through_counties.png">
+  <img width="500" height="500" src="https://github.com/jcarter211/election-analysis/blob/main/Supporting%20Materials/Looping_through_counties.png">
 </p>
 
  ## Challenge Summary 
