@@ -51,4 +51,4 @@ After making these changes, we also needed to loop through the counties from the
 </p>
 
  ## Challenge Summary 
- 
+ It is my hope that the election commmission will use this script as a guide for all elections moving forward. I think that it will expedite the election audit process and provide information that better informs the commission of the election results. If the election board would like to continue using this script, there are a few modifications that would need to be made. The commission would need to upload a new csv file for each election so that the code is pulling from the correct eletion data. To learn even more about the election, the commission could add in a few lines of code that would provide further information about many votes each candidiate received from each county. The commission could see if a certain county perferred one candidate over another. 
