@@ -18,7 +18,7 @@ After receiving the intitial data, the election commission requested a few more 
 
 The results of the election are seen above. 
   * There were 369,711 votes cast in the election. 
-  * The couny results were:
+  * The county results were:
     * Jefferson received 10.5% of the votes (38,855).
     * Denver received 82.8% of the votes (306, 055. 
     * Arapahoe received 6.7% of the votes (24,801). 
